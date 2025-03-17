@@ -1,0 +1,4 @@
+- Calculate employee tax based on earnings
+    - Get employee salary
+    - Check salary against tax brackets
+    - Return tax amount/percentage

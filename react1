@@ -1,0 +1,12 @@
+# A Restaurant Menu
+- Create a very simple react project, that allows you to manage a restaurant menu.
+- The project should have the following features:
+1. A list of all the dishes in the menu.
+    Notes:
+        - Create an array of menu items with 4 objects each with the following properties:
+            - name, description, price
+
+2. A list of employees in the restaurant.
+
+Notes:
+    - You must use components and props

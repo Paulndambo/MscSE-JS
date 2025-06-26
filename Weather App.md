@@ -25,6 +25,9 @@ Create a small React app called **Weather Watch** that:
 ```
 WeatherWatch/
 |
+├── index.css
+├── App.css
+├── main.jsx
 ├── App.jsx
 ├── components/
 |   ├── WeatherCard.jsx
